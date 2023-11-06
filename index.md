@@ -8,26 +8,26 @@ The Solution: The UH Student Art Gallery allows users to post images of their ar
 
 ## Outline
 
-## Sign Up 
+### Sign Up 
 
 
-## Log In 
+### Log In 
 
 
-## Profile
+### Profile
 
 
-## Home Page 
+### Home Page 
 
 <img width="400px" class="text-center p-4" align="center" src="/Images/pages/home-page.png">
 
 This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. 
 
-## Photo Interaction
+### Photo Interaction
 <img src="/Images/pages/photo_interaction_page.png" width="500px">
 
 
-## Approach
+### Approach
 
 The landing page will list the features of the web app, such as the gallery, posting artworks, and adding comments.
 
