@@ -8,28 +8,37 @@ The Solution: The UH Student Art Gallery allows users to post images of their ar
 
 ## Outline
 
-### Sign Up 
+### Landing 
+
+<img width="400px" class="text-center p-4" align="center" src="/Images/pages/home-page.png">
+
+This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. 
+
+
+### Sign-Up 
 
 <img width="400px" class="p-4" align="center" src="/Images/pages/sign-up-page-mockup.png">
 
 This is what the sign up page may look like. New users will be able to create an account with a username, email, and password to log in.
 
-### Log In 
+### Login 
 
 <img width="400px" class="p-4" align="center" src="/Images/pages/login-page-mockup.png">
 
 This is what the login page may look like. Users will be able to enter their username/email and password to log into their account.
+
+## Home
 
 ### Profile
 <img width="400px" class="text-center p-4" align="center" src="/Images/pages/profile.png">
 
 The profile page of our application will be inspired by VSCO's (as shown above). The top of the page will detail the user's profile picture, their username, and a short description. Below will be a collage of the user's posted artwork in a gallery. We will also provide an "Edit Profile" option for the user. 
 
-### Home Page 
+## Edit Profile
 
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/home-page.png">
+## Studio
 
-This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. 
+## Search
 
 ### Photo Interaction
 <img src="/Images/pages/photo_interaction_page.png" width="500px">
@@ -49,11 +58,14 @@ The gallery will initially show the most recent artworks. Users can filter for s
 
 Possible mockup pages include:
 * Landing page
-* User landing page
-* User posts page
-* Add art page
-* Art Gallery page
-* View post page
+* Login
+* Sign-Up
+* Home
+* Profile
+* Edit Profile
+* Studio
+* Search
+* Photo Interation
 
 ## Use Case Ideas
 
