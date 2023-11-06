@@ -36,4 +36,4 @@ Some potential advance features include:
 * A role for professors or experts in art
 
 ## Contract Link 
-https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit
+(Link)[https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit]
