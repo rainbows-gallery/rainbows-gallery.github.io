@@ -24,7 +24,7 @@ The Solution: The UH Student Art Gallery allows users to post images of their ar
 This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. 
 
 ## Photo Interaction
-
+<img src="/Images/pages/photo_interaction_page.png" width="500px">
 
 
 ## Approach
