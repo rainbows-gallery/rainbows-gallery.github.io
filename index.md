@@ -8,13 +8,13 @@ The Solution: The UH Student Art Gallery allows users to post images of their ar
 
 ## Outline
 
-## Sign Up 
+### Sign Up 
 
 <img width="400px" class="p-4" align="center" src="/Images/pages/sign-up-page-mockup.png">
 
 This is what the sign up page may look like. New users will be able to create an account with a username, email, and password to log in.
 
-## Log In 
+### Log In 
 
 <img width="400px" class="p-4" align="center" src="/Images/pages/login-page-mockup.png">
 
