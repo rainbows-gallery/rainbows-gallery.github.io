@@ -8,6 +8,22 @@ The Solution: The UH Student Art Gallery allows users to post images of their ar
 
 ## Outline
 
+## Sign Up 
+
+
+## Log In 
+
+
+## Profile
+
+
+## Home Page 
+
+
+## Photo Interaction
+
+
+
 ## Approach
 
 The landing page will list the features of the web app, such as the gallery, posting artworks, and adding comments.
