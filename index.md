@@ -34,3 +34,6 @@ Some potential advance features include:
 * Profile pages for individual users
 * Filter for explicit artworks
 * A role for professors or experts in art
+
+## Contract Link 
+https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit
