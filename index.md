@@ -1,4 +1,4 @@
-<img width="200px" class="text-center p-4" align="center" style="padding:20px" src="../Images/logo.png">
+<img width="200px" class="text-center p-4" align="center" style="padding:20px" src="/Images/logo.png">
 
 ## Overview
 
