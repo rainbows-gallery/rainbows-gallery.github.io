@@ -1,10 +1,12 @@
-<img width="200px" class="text-center p-4" align="center" style="padding:20px" src="/Images/logo.png">
+<img width="400px" class="text-center p-4" align="center" style="padding:20px" src="/Images/logo.png">
 
 ## Overview
 
 The Problem: UH students who paint, draw, sculpt, photograph, and so on do not have a public place to showcase their art to other individuals. Although there is the Manoa Creative Production Discord server, it is not a convenient place for people to look at a specific person’s art, nor a place for sculptures, photographs, ceramics, etc.
 
 The Solution: The UH Student Art Gallery allows users to post images of their art for anyone to view. Other users will be able to add comments under artworks.
+
+## Outline
 
 ## Approach
 
@@ -36,6 +38,7 @@ Some potential advance features include:
 * Profile pages for individual users
 * Filter for explicit artworks
 * A role for professors or experts in art
+
 
 ## Contract Link 
 [Link](https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit)
