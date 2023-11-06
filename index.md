@@ -15,7 +15,7 @@ The Solution: The UH Student Art Gallery allows users to post images of their ar
 
 
 ### Profile
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/profile.png">
+<img width="400px" class="text-center p-4" align="center" src="/Images/profile.png">
 
 The profile page of our application will be inspired by VSCO's homepage (as shown above). The top of the page will detail the user's profile picture, their username, and a short description. Below will be a collage of the user's posted artwork in a gallery. We will also provide an "Edit Profile" option for the user. 
 
