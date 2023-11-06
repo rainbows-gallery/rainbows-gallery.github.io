@@ -27,18 +27,18 @@ This is what the sign up page may look like. New users will be able to create an
 
 This is what the login page may look like. Users will be able to enter their username/email and password to log into their account.
 
-## Home
+### Home
 
 ### Profile
 <img width="400px" class="text-center p-4" align="center" src="/Images/pages/profile.png">
 
 The profile page of our application will be inspired by VSCO's (as shown above). The top of the page will detail the user's profile picture, their username, and a short description. Below will be a collage of the user's posted artwork in a gallery. We will also provide an "Edit Profile" option for the user. 
 
-## Edit Profile
+#### Edit Profile
 
-## Studio
+### Studio
 
-## Search
+### Search
 
 ### Photo Interaction
 <img src="/Images/pages/photo_interaction_page.png" width="500px">
