@@ -26,6 +26,8 @@ This image represents what a home page may look like for this project. Users wil
 ### Photo Interaction
 <img src="/Images/pages/photo_interaction_page.png" width="500px">
 
+This shows what happens when a user decieds to click on an image. This will allow the user to view the image in full screen and be able to share the image. They may also
+star it and favorite their images.
 
 ### Approach
 
