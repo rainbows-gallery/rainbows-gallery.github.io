@@ -8,12 +8,12 @@
 
 # Outline
 
-## Landing 
+## Landing / Home
 
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/home-page.png">
+<img width="400px" class="text-center p-4" align="center" src="/Images/pages/Landing-page.png">
 
-This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. 
-
+This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. If a user sign in then this page will show their feed of people they are following. With the sign
+in section chaning to show their profile picture.
 
 ## Sign-Up 
 
@@ -26,8 +26,6 @@ This is what the sign up page may look like. New users will be able to create an
 <img width="400px" class="p-4" align="center" src="/Images/pages/login-page-mockup.png">
 
 This is what the login page may look like. Users will be able to enter their username/email and password to log into their account.
-
-## Home
 
 ## Profile
 <img width="400px" class="text-center p-4" align="center" src="/Images/pages/profile.png">
