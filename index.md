@@ -34,11 +34,14 @@ This is what the login page may look like. Users will be able to enter their use
 This is what the home page may look like. Users will be able to scroll through artwork as well as search for artists.
 
 ## Profile
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/profile.png">
+<img width="400px" class="text-center p-4" align="center" src="/Images/pages/profilepage.png">
 
-The profile page of our application will be inspired by VSCO's (as shown above). The top of the page will detail the user's profile picture, their username, and a short description. Below will be a collage of the user's posted artwork in a gallery. We will also provide an "Edit Profile" option for the user. 
+The profile page displays the user's title, username, a short artists statement, and a gallery of all the images the user has posted. From this page the user has the ability to navigate to the edit profile page. 
 
 ### Edit Profile
+<img width="400px" class="text-center p-4" align="center" src="/Images/pages/editprofile.png">
+
+The user may change their title, username, and their short description on the edit profile page. 
 
 ## Studio
 
