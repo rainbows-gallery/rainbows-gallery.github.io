@@ -44,6 +44,9 @@ The profile page displays the user's title, username, a short artists statement,
 The user may change their title, username, and their short description on the edit profile page. 
 
 ## Studio
+<img width="400px" class="text-center p-4" align="center" src="/Images/pages/studioMockup-Figma.png">
+
+This is what the studio page may look like. Users will use the studio page to add artwork to their profile and the gallery.
 
 ## Search
 
