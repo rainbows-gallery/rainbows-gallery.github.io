@@ -27,6 +27,12 @@ This is what the sign up page may look like. New users will be able to create an
 
 This is what the login page may look like. Users will be able to enter their username/email and password to log into their account.
 
+## Home 
+
+<img width="400px" class="p-4" align="center" src="/Images/pages/homeMockup-Figma.png">
+
+This is what the home page may look like. Users will be able to scroll through artwork as well as search for artists.
+
 ## Profile
 <img width="400px" class="text-center p-4" align="center" src="/Images/pages/profile.png">
 
