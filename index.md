@@ -8,7 +8,7 @@
 
 # Outline
 
-## Landing / Home
+## Landing
 
 <img width="400px" class="text-center p-4" align="center" src="/Images/pages/Landing-page.png">
 
