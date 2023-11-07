@@ -49,9 +49,12 @@ The user may change their title, username, and their short description on the ed
 This is what the studio page may look like. Users will use the studio page to add artwork to their profile and the gallery.
 
 ## Search
+<img width="400px" class="text-center p-4" align="center" src="/Images/pages/search-page-mockup.png">
+
+This page displays any profiles whose username matches what was entered into the search bar. The user is able to click on one of the entries and view the other user's profile.
 
 ## Photo Interaction
-<img src="/Images/pages/photo_interaction_page.png" width="500px">
+<img src="/Images/pages/photo_interaction_page.png" width="400px">
 
 This shows what happens when a user decieds to click on an image. This will allow the user to view the image in full screen and be able to share the image. They may also
 star it and favorite their images.
