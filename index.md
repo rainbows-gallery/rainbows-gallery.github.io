@@ -54,7 +54,7 @@ This is what the studio page may look like. Users will use the studio page to ad
 This page displays any profiles whose username matches what was entered into the search bar. The user is able to click on one of the entries and view the other user's profile.
 
 ## Photo Interaction
-<img src="/Images/pages/photo_interaction_page.png" width="400px">
+<img src="/Images/pages/photo_interaction_page.png" width="600px">
 
 This shows what happens when a user decieds to click on an image. This will allow the user to view the image in full screen and be able to share the image. They may also
 star it and favorite their images.
@@ -82,9 +82,8 @@ Possible mockup pages include:
 
 # Use Case Ideas
 
-* New user goes to landing page, logs in, gets to user landing page, learns how to use the application.
-* User goes to landing page, logs in, gets to user landing page, browses the art gallery or adds their own art.
-* Admin goes to landing page, logs in, gets to user landing page, monitors the gallery.
+* New user goes to landing page, logs in, gets to landing page, browses through the art gallery.
+* User goes to landing page, logs in, gets to home page, browses the art gallery, post their own art, edit their profile, or search for other profiles.
 
 # Beyond the Basics
 
