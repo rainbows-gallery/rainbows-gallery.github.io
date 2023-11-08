@@ -1,4 +1,4 @@
-<img width="400px" class="text-center p-4" align="center" style="padding:20px" src="/Images/logo.png">
+<img width="600px" class="text-center p-4" align="center" style="padding:20px" src="/Images/logo.png">
 
 # Overview
 
@@ -10,46 +10,46 @@
 
 ## Landing
 
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/Landing-page.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/pages/Landing-page.png">
 
 This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. If a user sign in then this page will show their feed of people they are following. With the sign
 in section chaning to show their profile picture.
 
 ## Sign-Up 
 
-<img width="400px" class="p-4" align="center" src="/Images/pages/sign-up-page-mockup.png">
+<img width="600px" class="p-4" align="center" src="/Images/pages/sign-up-page-mockup.png">
 
 This is what the sign up page may look like. New users will be able to create an account with a username, email, and password to log in.
 
 ## Login 
 
-<img width="400px" class="p-4" align="center" src="/Images/pages/login-page-mockup.png">
+<img width="600px" class="p-4" align="center" src="/Images/pages/login-page-mockup.png">
 
 This is what the login page may look like. Users will be able to enter their username/email and password to log into their account.
 
 ## Home 
 
-<img width="400px" class="p-4" align="center" src="/Images/pages/homeMockup-Figma.png">
+<img width="600px" class="p-4" align="center" src="/Images/pages/homeMockup-Figma.png">
 
 This is what the home page may look like. Users will be able to scroll through artwork as well as search for artists.
 
 ## Profile
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/profilepage.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/pages/profilepage.png">
 
 The profile page displays the user's title, username, a short artists statement, and a gallery of all the images the user has posted. From this page the user has the ability to navigate to the edit profile page. 
 
 ### Edit Profile
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/editprofile.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/pages/editprofile.png">
 
 The user may change their title, username, and their short description on the edit profile page. 
 
 ## Studio
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/studioMockup-Figma.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/pages/studioMockup-Figma.png">
 
 This is what the studio page may look like. Users will use the studio page to add artwork to their profile and the gallery.
 
 ## Search
-<img width="400px" class="text-center p-4" align="center" src="/Images/pages/search-page-mockup.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/pages/search-page-mockup.png">
 
 This page displays any profiles whose username matches what was entered into the search bar. The user is able to click on one of the entries and view the other user's profile.
 
