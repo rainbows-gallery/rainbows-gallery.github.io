@@ -82,7 +82,7 @@ Possible mockup pages include:
 
 # Use Case Ideas
 
-* New user goes to landing page, logs in, gets to landing page, browses through the art gallery.
+* New user goes to landing page, browses through the art gallery, can sign up.
 * User goes to landing page, logs in, gets to home page, browses the art gallery, post their own art, edit their profile, or search for other profiles.
 
 # Beyond the Basics
@@ -103,4 +103,4 @@ Some potential advance features include:
 [Sienne Rodwell](https://sienner.github.io)
 [Tatum Umiaka]()
 [Kobe Uyeda]()
-[Eric Zhou]()
+[Eric Zhou](https://github.com/eric-z4)
