@@ -93,14 +93,14 @@ Some potential advance features include:
 * Design a role for professors or experts separate from admins and regular users
 
 # Project Management Links 
-[M1](https://github.com/orgs/rainbows-gallery/projects/2/views/2)
-[M2](https://github.com/orgs/rainbows-gallery/projects/3)
+* [M1](https://github.com/orgs/rainbows-gallery/projects/2/views/2)
+* [M2](https://github.com/orgs/rainbows-gallery/projects/3)
 
 # Contract Link 
 [Link](https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit)
 
 # Team Profiles 
-[Sienne Rodwell](https://sienner.github.io)
-[Tatum Umiaka]()
-[Kobe Uyeda]()
-[Eric Zhou](https://github.com/eric-z4)
+* [Sienne Rodwell](https://sienner.github.io)
+* [Tatum Umiaka]()
+* [Kobe Uyeda]()
+* [Eric Zhou](https://github.com/eric-z4)
