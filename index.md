@@ -94,7 +94,7 @@ Some potential advance features include:
 
 # Project Management Links 
 [M1](https://github.com/orgs/rainbows-gallery/projects/2/views/2)
-[M2]
+[M2](https://github.com/orgs/rainbows-gallery/projects/3)
 
 # Contract Link 
 [Link](https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit)
