@@ -76,10 +76,9 @@ Possible mockup pages include:
 * Sign-Up
 * Home
 * Profile
-* Edit Profile
 * Studio
 * Search
-* Photo Interation
+* Photo Interaction
 
 # Use Case Ideas
 
