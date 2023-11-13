@@ -101,6 +101,6 @@ Some potential advance features include:
 
 # Team Profiles 
 * [Sienne Rodwell](https://sienner.github.io)
-* [Tatum Umiaka]()
+* [Tatum Umiaka](https://tatumumi.github.io)
 * [Kobe Uyeda]()
 * [Eric Zhou](https://github.com/eric-z4)
