@@ -10,54 +10,55 @@
 
 ## Landing
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/pages/Landing-page.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M1/Landing-1.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M1/Landing-2.png">
 
-This image represents what a home page may look like for this project. Users will be able to see a gallery of photos, as well as have downward scrolling capabilities to view content in addition to what is currently rendered on their screen. If a user sign in then this page will show their feed of people they are following. With the sign
-in section chaning to show their profile picture.
+These are images that show the landing page for our project. Note that each of these images show the creater username and can be clicked on in order to display the photo interaction page. In the landing page, the feed will be limited so as to encourage the user to log in or sign up. 
 
-## Sign-Up 
+## Photo Interaction
 
-<img width="600px" class="p-4" align="center" src="/Images/pages/sign-up-page-mockup.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M1/PhotoInteract.png">
 
-This is what the sign up page may look like. New users will be able to create an account with a username, email, and password to log in.
+This page presents when a user clicks on an image. This page shows the image in a larger size, the username which uploaded the image, a short description of the image. This page also allows for commenting on the post, as well as "starring" or sharing the image.
 
-## Login 
+## Sign Up 
 
-<img width="600px" class="p-4" align="center" src="/Images/pages/login-page-mockup.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M1/SignUp.png">
 
-This is what the login page may look like. Users will be able to enter their username/email and password to log into their account.
+This is the current rendering of the sign up page. When starting up, the site asks for entry of a username, email, and password. The "Already have an account?" link is functional and takes you directly to the sign in page. 
+
+## Sign In 
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M1/SignIN.png">
+
+This is the current sign in page. It requests a username or email from the user. Username log in does not currently work for defaults, but works if a new account is created. The "Don't have an account?" link is functional and takes you directly to the sign up page. 
 
 ## Home 
 
-<img width="600px" class="p-4" align="center" src="/Images/pages/homeMockup-Figma.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M1/Home.png">
 
-This is what the home page may look like. Users will be able to scroll through artwork as well as search for artists.
+The current rendering of home is nearly identical to the landing page with the exception of navbar items. In the future, continuous image rendering will be implemented, to provide images from followed users upon scrolling down. 
 
 ## Profile
 <img width="600px" class="text-center p-4" align="center" src="/Images/pages/profilepage.png">
 
-The profile page displays the user's title, username, a short artists statement, and a gallery of all the images the user has posted. From this page the user has the ability to navigate to the edit profile page. 
+The profile page displays the user's title, username, a short artists statement, and a gallery of all the images the user has posted. From this page the user has the ability to navigate to the edit profile page. Currently, there is no implemented rendering of the Profile page. 
 
 ### Edit Profile
 <img width="600px" class="text-center p-4" align="center" src="/Images/pages/editprofile.png">
 
-The user may change their title, username, and their short description on the edit profile page. 
+The user may change their title, username, and their short description on the edit profile page. Currently, there is no implementation of the edit profile page. 
 
 ## Studio
 <img width="600px" class="text-center p-4" align="center" src="/Images/pages/studioMockup-Figma.png">
 
-This is what the studio page may look like. Users will use the studio page to add artwork to their profile and the gallery.
+This is what the studio page may look like. Users will use the studio page to add artwork to their profile and the gallery. Currently, there is no implementation of the studio page. 
 
 ## Search
 <img width="600px" class="text-center p-4" align="center" src="/Images/pages/search-page-mockup.png">
 
-This page displays any profiles whose username matches what was entered into the search bar. The user is able to click on one of the entries and view the other user's profile.
+This page displays any profiles whose username matches what was entered into the search bar. The user is able to click on one of the entries and view the other user's profile. Currently, there is no implementation of the search page. 
 
-## Photo Interaction
-<img src="/Images/pages/photo_interaction_page.png" width="600px">
-
-This shows what happens when a user decieds to click on an image. This will allow the user to view the image in full screen and be able to share the image. They may also
-star it and favorite their images.
 
 ## Approach
 
