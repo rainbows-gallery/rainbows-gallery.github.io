@@ -92,6 +92,9 @@ Some potential advance features include:
 * Allow users to filter out certain artwork
 * Design a role for professors or experts separate from admins and regular users
 
+# Deployment
+[Link](http://143.198.63.208/)
+
 # Project Management Links 
 * [M1](https://github.com/orgs/rainbows-gallery/projects/2/views/2)
 * [M2](https://github.com/orgs/rainbows-gallery/projects/3)
@@ -104,3 +107,6 @@ Some potential advance features include:
 * [Tatum Umiaka](https://tatumumi.github.io)
 * [Kobe Uyeda](https://github.com/KobeUyeda)
 * [Eric Zhou](https://github.com/eric-z4)
+
+# Link to our Organization
+[Link](https://github.com/rainbows-gallery)
