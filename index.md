@@ -110,3 +110,11 @@ Some potential advance features include:
 
 # Link to our Organization
 [Link](https://github.com/rainbows-gallery)
+
+# How to Run Our App Locally
+
+* Ensure you have [npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) installed and accessible
+* Clone our gallery-app repository onto your local device
+* cd into the the gallery-app/app folder
+* run meteor npm install
+* run meteor npm run start 
