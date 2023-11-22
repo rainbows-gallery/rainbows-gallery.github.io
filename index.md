@@ -4,14 +4,13 @@
 
 **The Problem**: UH students who paint, draw, sculpt, photograph, and so on do not have a public place to showcase their art to other individuals. Although there is the Manoa Creative Production Discord server, it is not a convenient place for people to look at a specific person’s art, nor a place for sculptures, photographs, ceramics, etc.
 
-**The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Other users will be able to add comments under artworks.
+**The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts they like for easy reference.
 
 # Outline
 
 ## Landing
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M1/Landing-1.png">
-<img width="600px" class="text-center p-4" align="center" src="/Images/M1/Landing-2.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/Landing.png">
 
 These are images that show the landing page for our project. Note that each of these images show the creater username and can be clicked on in order to display the photo interaction page. In the landing page, the feed will be limited so as to encourage the user to log in or sign up. 
 
