@@ -6,7 +6,7 @@
 
 **The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts they like for easy reference.
 
-# Outline
+# User Guide
 
 ## Landing
 
@@ -74,37 +74,14 @@ When you view someone else's account, you will have the option to follow them. T
 
 After you follow someone, their posts will populate in your feed. 
 
-## Approach
+# Developer Guide
 
-The landing page will list the features of the web app, such as the gallery, posting artworks, and adding comments.
-
-Regular users can login with their UH account, which allows them to view the whole gallery, post images of their artworks, view their posts, and add comments to other user's posts. Note that users who are not logged in are unable to access the gallery or perform the other listed actions.
-
-Admins monitor the gallery and can delete any inappropriate posts and comments.
-
-The gallery will initially show the most recent artworks. Users can filter for specific artworks (e.g. sculptures, digital art, hand-drawn, etc.) or user’s artworks. Alternatively, they could sort by date, alphabetically, or usernames.
-
-Possible mockup pages include:
-* Landing page
-* Login
-* Sign-Up
-* Home
-* Profile
-* Studio
-* Search
-* Photo Interaction
-
-# Use Case Ideas
-
-* New user goes to landing page, browses through the art gallery, can sign up.
-* User goes to landing page, logs in, gets to home page, browses the art gallery, post their own art, edit their profile, or search for other profiles.
-
-# Beyond the Basics
-
-Some potential advance features include:
-* Implement profile pages for users
-* Allow users to filter out certain artwork
-* Design a role for professors or experts separate from admins and regular users
+* Ensure you have [npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) installed and accessible
+* Clone our [gallery-app repository](https://github.com/rainbows-gallery/gallery-app) onto your local device
+* cd into your local gallery-app/app folder
+* run meteor npm install
+* run meteor npm run start
+* now you can view the app at your local host!
 
 # Deployment
 [Link](http://143.198.63.208/)
@@ -112,7 +89,7 @@ Some potential advance features include:
 # Project Management Links 
 * [M1](https://github.com/orgs/rainbows-gallery/projects/2/views/2)
 * [M2](https://github.com/orgs/rainbows-gallery/projects/3)
-
+ 
 # Contract Link 
 [Link](https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit)
 
@@ -125,10 +102,10 @@ Some potential advance features include:
 # Link to our Organization
 [Link](https://github.com/rainbows-gallery)
 
-# How to Run Our App Locally
+# Future Improvements 
+* Ability to edit profile photo
+* Abilitly to delete your posts
+* Admin ability to delete all posts
+* Cleaner, more modern design
+* Star functionality
 
-* Ensure you have [npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) installed and accessible
-* Clone our gallery-app repository onto your local device
-* cd into the the gallery-app/app folder
-* run meteor npm install
-* run meteor npm run start 
