@@ -12,7 +12,7 @@
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M2/Landing.png">
 
-These are images that show the landing page for our project. Note that each of these images show the creater username and can be clicked on in order to display the photo interaction page. In the landing page, the feed will be limited so as to encourage the user to log in or sign up. 
+This image shows the landing page of our application. Each of these photos can be clicked to view in greater detail. Until you log in, however, you will not be able to comment or star posts. 
 
 ## Photo Interaction
 
