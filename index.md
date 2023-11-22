@@ -14,50 +14,65 @@
 
 This image shows the landing page of our application. Each of these photos can be clicked to view in greater detail. Until you log in, however, you will not be able to comment or star posts. 
 
-## Photo Interaction
-
-<img width="600px" class="text-center p-4" align="center" src="/Images/M1/PhotoInteract.png">
-
-This page presents when a user clicks on an image. This page shows the image in a larger size, the username which uploaded the image, a short description of the image. This page also allows for commenting on the post, as well as "starring" or sharing the image.
-
 ## Sign Up 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M1/SignUp.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/SignUp.png">
 
 This is the current rendering of the sign up page. When starting up, the site asks for entry of a username, email, and password. The "Already have an account?" link is functional and takes you directly to the sign in page. 
 
-## Sign In 
+## Log In 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M1/SignIN.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/LogIn.png">
 
-This is the current sign in page. It requests a username or email from the user. Username log in does not currently work for defaults, but works if a new account is created. The "Don't have an account?" link is functional and takes you directly to the sign up page. 
+This is the current log in page. It requests a username or email from the user. 
 
-## Home 
+## About 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M1/Home.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/about-page.png">
 
-The current rendering of home is nearly identical to the landing page with the exception of navbar items. In the future, continuous image rendering will be implemented, to provide images from followed users upon scrolling down. 
+Immediately upon signing up for the first time, you will be taken to an about page that helps explain how to use the app.
 
 ## Profile
-<img width="600px" class="text-center p-4" align="center" src="/Images/pages/profilepage.png">
 
-The profile page displays the user's title, username, a short artists statement, and a gallery of all the images the user has posted. From this page the user has the ability to navigate to the edit profile page. Currently, there is no implemented rendering of the Profile page. 
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/empty-profile.png">
 
-### Edit Profile
-<img width="600px" class="text-center p-4" align="center" src="/Images/pages/editprofile.png">
+If just signing up for the first time, this is what your page will look like prior to adding any posts. If you would like to add posts to your profile, you can go into the "Add Post" tab in the Navbar. 
 
-The user may change their title, username, and their short description on the edit profile page. Currently, there is no implementation of the edit profile page. 
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/populated-profile.page.png">
 
-## Studio
-<img width="600px" class="text-center p-4" align="center" src="/Images/pages/studioMockup-Figma.png">
+Once you have added posts to your profile, this is what it will look like!
 
-This is what the studio page may look like. Users will use the studio page to add artwork to their profile and the gallery. Currently, there is no implementation of the studio page. 
+## Add Post
 
-## Search
-<img width="600px" class="text-center p-4" align="center" src="/Images/pages/search-page-mockup.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/add-post-fill-in.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/add-post-sucess.png">
 
-This page displays any profiles whose username matches what was entered into the search bar. The user is able to click on one of the entries and view the other user's profile. Currently, there is no implementation of the search page. 
+To add a post, click on the top box to look for a file. Fill in the description beneath the photo, then click submit. In a few seconds, you will receive an indicator that the post was successfully submitted. 
 
+## Feed
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/Feed-NotFollowingAnyone.png">
+
+Originally, if you are not following anyone, this is what your feed will look like. In order to start following accounts, search for other accounts in the search bar. 
+
+## Search 
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/search-results-page.png">
+
+To search for accounts, simply enter any string into the Navbar then click enter. A page with all profiles with a potential match to the string you entered will appear. Click on the account shown to be taken to that user's profile page. 
+
+## Someone Else's Profile 
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/admin-profile-notYours.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/follow-functionality.png">
+
+When you view someone else's account, you will have the option to follow them. To follow that account, simply click follow. Once you are following the account, their posts will populate in your feed.
+
+## Feed 
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/landing-after-add-follow.png">
+
+After you follow someone, their posts will populate in your feed. 
 
 ## Approach
 
