@@ -78,9 +78,9 @@ After you follow someone, their posts will populate in your feed.
 
 * Ensure you have [npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) installed and accessible
 * Clone our [gallery-app repository](https://github.com/rainbows-gallery/gallery-app) onto your local device
-* cd into your local gallery-app/app folder
-* run meteor npm install
-* run meteor npm run start
+* cd into your local gallery-app/app folder in terminal
+* run meteor npm install in terminal
+* run meteor npm run start in terminal 
 * now you can view the app at your local host!
 
 # Deployment
