@@ -38,7 +38,7 @@ Immediately upon signing up for the first time, you will be taken to an about pa
 
 If just signing up for the first time, this is what your page will look like prior to adding any posts. If you would like to add posts to your profile, you can go into the "Add Post" tab in the Navbar. 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/populated-profile.page.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2/populated-profile-page.png">
 
 Once you have added posts to your profile, this is what it will look like!
 
