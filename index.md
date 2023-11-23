@@ -206,7 +206,7 @@ The only impact of quarantine mode should be that the first test is marked as "u
 
 ![ci-badge](https://github.com/bowfolios/bowfolios/workflows/ci-bowfolios/badge.svg) //Kobe add ours here
 
-BowFolios uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/bowfolios/bowfolios/actions](https://github.com/bowfolios/bowfolios/actions).
+Rainbow Gallery uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/rainbows-gallery/gallery-app/actions](https://github.com/rainbows-gallery/gallery-app/actions).
 
 The workflow definition file is quite simple and is located at
 [.github/workflows/ci.yml](https://github.com/bowfolios/bowfolios/blob/main/.github/workflows/ci.yml).
@@ -230,6 +230,7 @@ The development process for Rainbow Gallery conformed to [Issue Driven Project M
 # Project Management Links 
 * [M1](https://github.com/orgs/rainbows-gallery/projects/2/views/2)
 * [M2](https://github.com/orgs/rainbows-gallery/projects/3)
+* [M3](https://github.com/orgs/rainbows-gallery/projects/4)
  
 # Contract Link 
 [Link](https://docs.google.com/document/d/1cbQv4htZbSGHQxj_0gbgDfSVIsTfvkACISIYMw3NIY0/edit)
