@@ -6,6 +6,17 @@
 
 **The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts they like for easy reference.
 
+# Table of contents
+
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Developer History](#developer-history)
+* [Deployment](#deployment)
+* [Project Management Links](#project-management)
+* [Team Profiles](#team-profiles)
+* [Future Improvements](#future-provements)
+
 # User Guide
 
 ## Landing
