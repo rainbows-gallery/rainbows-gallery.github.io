@@ -13,7 +13,7 @@
 * [Developer Guide](#developer-guide)
 * [Developer History](#developer-history)
 * [Deployment](#deployment)
-* [Project Management Links](#project-management)
+* [Project Management Links](#project-management-links)
 * [Team Profiles](#team-profiles)
 * [Future Improvements](#future-provements)
 
