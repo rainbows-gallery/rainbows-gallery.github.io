@@ -245,7 +245,7 @@ The development process for Rainbow Gallery conformed to [Issue Driven Project M
 
 # Team Profiles 
 * [Sienne Rodwell](https://sienner.github.io)
-* [Tatum Umiaka](https://tatumumi.github.io)
+* [Tatum Umiamaka](https://tatumumi.github.io)
 * [Kobe Uyeda](https://github.com/KobeUyeda)
 * [Eric Zhou](https://github.com/eric-z4)
 
