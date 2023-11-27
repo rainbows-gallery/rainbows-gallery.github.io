@@ -86,6 +86,12 @@ When you view someone else's account, you will have the option to follow them. T
 
 After you follow someone, their posts will populate in your feed. 
 
+## Commenting 
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/AddedComment.png">
+
+To comment on a post, click on any photo. You can enter in your comment and will receive a success notification upon entry. You have the ability to delete any comment you create. Owners of a post may delete any comment on their post, and admin has the ability to remove any comment regardless of the post it is on.
+
 # Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
