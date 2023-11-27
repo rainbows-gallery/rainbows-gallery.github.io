@@ -260,8 +260,8 @@ The development process for Rainbow Gallery conformed to [Issue Driven Project M
 
 # Future Improvements 
 * Ability to edit profile photo
+* Discovery page to find new accounts
 * Abilitly to delete your posts
 * Admin ability to delete all posts
-* Cleaner, more modern design
 * Star functionality
 
