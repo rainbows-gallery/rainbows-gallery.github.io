@@ -21,70 +21,70 @@
 
 ## Landing
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/Landing.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Landing.png">
 
 This image shows the landing page of our application. Each of these photos can be clicked to view in greater detail. Until you log in, however, you will not be able to comment or star posts. 
 
 ## Sign Up 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/SignUp.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Signup.png">
 
 This is the current rendering of the sign up page. When starting up, the site asks for entry of a username, email, and password. The "Already have an account?" link is functional and takes you directly to the sign in page. 
 
 ## Log In 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/LogIn.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Login.png">
 
 This is the current log in page. It requests a username or email from the user. 
 
 ## About 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/about-page.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/About.png">
 
 Immediately upon signing up for the first time, you will be taken to an about page that helps explain how to use the app.
 
 ## Profile
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/empty-profile.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/empty-profile.png">
 
 If just signing up for the first time, this is what your page will look like prior to adding any posts. If you would like to add posts to your profile, you can go into the "Add Post" tab in the Navbar. 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/populated-profile-page.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/profile-with-posts.png">
 
 Once you have added posts to your profile, this is what it will look like!
 
 ## Add Post
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/add-post-fill-in.png">
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/add-post-sucess.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Add-post.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/fill-in-post.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Sucessfully-added-post.png">
 
 To add a post, click on the top box to look for a file. Fill in the description beneath the photo, then click submit. In a few seconds, you will receive an indicator that the post was successfully submitted. 
 
 ## Feed
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/Feed-NotFollowingAnyone.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/feed-once-following.png">
 
 Originally, if you are not following anyone, this is what your feed will look like. In order to start following accounts, search for other accounts in the search bar. 
 
 ## Search 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/search-results-page.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/search-results.png">
 
 To search for accounts, simply enter any string into the Navbar then click enter. A page with all profiles with a potential match to the string you entered will appear. Click on the account shown to be taken to that user's profile page. 
 
 ## Someone Else's Profile 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/admin-profile-notYours.png">
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/follow-functionality.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/someone-else-profile.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/followed-someone-else.png">
 
 When you view someone else's account, you will have the option to follow them. To follow that account, simply click follow. Once you are following the account, their posts will populate in your feed.
 
-## Feed 
+## Populated Feed 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2/landing-after-add-follow.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/feed-once-following.png">
 
 After you follow someone, their posts will populate in your feed. 
-
 
 # Developer Guide
 
