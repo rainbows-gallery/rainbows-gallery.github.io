@@ -166,19 +166,18 @@ $ meteor npm run testcafe
  Running tests in:
  - Chrome 86.0.4240.111 / macOS 10.15.7
 
- Bowfolios localhost test with default db
+ rainbow-gallery localhost test with default db
  ✓ Test that landing page shows up
  ✓ Test that signin and signout work
  ✓ Test that signup page, then logout works
- ✓ Test that profiles page displays
- ✓ Test that interests page displays
+ ✓ Test that profile page displays
+ ✓ Test that feed page displays
  ✓ Test that projects page displays
- ✓ Test that home page display and profile modification works
- ✓ Test that addProject page works
- ✓ Test that filter page works
+ ✓ Test that addPost page works
+ ✓ Test that search page works
 
 
- 9 passed (40s)
+ 8 passed (40s)
 
  $
 ```
@@ -199,18 +198,17 @@ $ meteor npm run testcafe-ci
  - Chrome 86.0.4240.111 / macOS 10.15.7
 
  rainbow-gallery localhost test with default db
- ✓ Test that landing page shows up (unstable)
+ ✓ Test that landing page shows up
  ✓ Test that signin and signout work
  ✓ Test that signup page, then logout works
- ✓ Test that profiles page displays
- ✓ Test that interests page displays
+ ✓ Test that profile page displays
+ ✓ Test that feed page displays
  ✓ Test that projects page displays
- ✓ Test that home page display and profile modification works
- ✓ Test that addProject page works
- ✓ Test that filter page works
+ ✓ Test that addPost page works
+ ✓ Test that search page works
 
 
- 9 passed (56s)
+ 8 passed (56s)
 
 $
 ```
