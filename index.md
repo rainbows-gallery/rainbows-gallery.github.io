@@ -219,7 +219,8 @@ The only impact of quarantine mode should be that the first test is marked as "u
 
 ## Continuous Integration
 
-[![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
+[![rainbow-gallery-ci](https://github.com/rainbows-gallery/gallery-app/actions/workflows/ci.yml/badge.svg)](https://github.com/rainbows-gallery/gallery-app/actions/workflows/ci.yml)
+
 
 Rainbow Gallery uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/rainbows-gallery/gallery-app/actions](https://github.com/rainbows-gallery/gallery-app/actions).
 
