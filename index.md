@@ -12,6 +12,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Developer History](#developer-history)
+* [User Reviews](#user-reviews)
 * [Deployment](#deployment)
 * [Project Management Links](#project-management-links)
 * [Team Profiles](#team-profiles)
@@ -236,6 +237,9 @@ The development process for Rainbow Gallery conformed to [Issue Driven Project M
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 
+# User Reviews
+
+user reviews
 
 # Deployment
 [Link](http://143.198.63.208/)
