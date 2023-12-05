@@ -16,7 +16,6 @@
 * [Deployment](#deployment)
 * [Project Management Links](#project-management-links)
 * [Team Profiles](#team-profiles)
-* [Future Improvements](#future-provements)
 
 # User Guide
 
@@ -282,6 +281,4 @@ Overall, users really enjoyed this app. There were some design inputs that have 
 
 # Link to our Organization
 [Link](https://github.com/rainbows-gallery)
-
-# Future Improvements
 
