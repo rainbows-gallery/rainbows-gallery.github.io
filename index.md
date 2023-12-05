@@ -262,6 +262,8 @@ All users tested had positive reviews of the app and its design. One user found 
 
 Overall, users really enjoyed this app. There were some design inputs that have already been implemented in the discover, feed, and landing pages. In general, users found this app to be well designed, intuitive, and easy to use. The main issue from user feedback was the response time from the photo service vendor. Despite the lack of funding to fix this issue, the long wait time was addressed by disabling the 'submit' and enter keys after the first occurence when adding a post. Although the wait is still longer than ideal, now it is obvious that the program is "working" after submission. 
 
+If you would like to fill out our feedback form, click [here](https://docs.google.com/forms/d/e/1FAIpQLSfCM0gscGfqH5AJ39ZU-yCABw_cPrNb8dPhPYlrxGMVKL5V0w/viewform?usp=sf_link).
+
 # Deployment
 [Link](http://143.198.63.208/)
 
