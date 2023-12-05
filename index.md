@@ -22,9 +22,10 @@
 
 ## Landing
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Landing.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/landing.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/landing-2.png">
 
-This image shows the landing page of our application. Each of these photos can be clicked to view in greater detail. Until you log in, however, you will not be able to comment or star posts. 
+These images show the landing page of our application. Each of these photos can be clicked to view in greater detail. Until you log in, however, you will not be able to comment on or star posts. 
 
 ## Sign Up 
 
@@ -32,66 +33,76 @@ This image shows the landing page of our application. Each of these photos can b
 
 This is the current rendering of the sign up page. When starting up, the site asks for entry of a username, email, and password. The "Already have an account?" link is functional and takes you directly to the sign in page. 
 
-## Log In 
+## Sign In 
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Login.png">
 
-This is the current log in page. It requests a username or email from the user. 
+This is the current sign in page. It requests a username or email from the user, as well as their password. 
 
 ## About 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/About.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/about.png">
 
 Immediately upon signing up for the first time, you will be taken to an about page that helps explain how to use the app.
 
 ## Profile
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/empty-profile.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/new-profile.png">
 
 If just signing up for the first time, this is what your page will look like prior to adding any posts. If you would like to add posts to your profile, you can go into the "Add Post" tab in the Navbar. 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/profile-with-posts.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/edit-profile.png">
+
+To edit your profile, click the edit profile link. Add a photo and a bio and click submit!
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/your-profile.png">
 
 Once you have added posts to your profile, this is what it will look like!
 
 ## Add Post
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Add-post.png">
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/fill-in-post.png">
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Sucessfully-added-post.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/add-post-empty.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/add-post-filled-in.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/add-post-success.png">
 
-To add a post, click on the top box to look for a file. Fill in the description beneath the photo, then click submit. In a few seconds, you will receive an indicator that the post was successfully submitted. 
+To add a post, click on the top box to look for a file, or drag a file into the box. Fill in the description beneath the photo, then click submit. In a few seconds, you will receive an indicator that the post was successfully submitted. 
 
 ## Feed
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/feed-once-following.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/feed-empty.png">
 
 Originally, if you are not following anyone, this is what your feed will look like. In order to start following accounts, search for other accounts in the search bar. 
 
 ## Search 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/search-results.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/search-results.png">
 
-To search for accounts, simply enter any string into the Navbar then click enter. A page with all profiles with a potential match to the string you entered will appear. Click on the account shown to be taken to that user's profile page. 
+To search for accounts, simply enter any string into the Navbar then click enter. A page with all profiles with a match to the string you entered will appear. Click on the account shown to be taken to that user's profile page. 
 
 ## Someone Else's Profile 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/someone-else-profile.png">
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/followed-someone-else.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/profile-someone-else.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/following-someone-else.png">
 
 When you view someone else's account, you will have the option to follow them. To follow that account, simply click follow. Once you are following the account, their posts will populate in your feed.
 
 ## Populated Feed 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/feed-once-following.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/feed-after-follow.png">
 
 After you follow someone, their posts will populate in your feed. 
 
 ## Commenting 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M2New/AddedComment.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/photo-ineract-submitted-comment.png">
 
-To comment on a post, click on any photo. You can enter in your comment and will receive a success notification upon entry. You have the ability to delete any comment you create. Owners of a post may delete any comment on their post, and admin has the ability to remove any comment regardless of the post it is on.
+To comment on a post, click on any photo. You can enter in your comment and will receive a success notification (shown above) upon entry. You have the ability to delete any comment you create. Owners of a post may delete any comment on their post, and admin has the ability to remove any comment regardless of the post it is on.
+
+## Starring 
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/photo-interact-after-like-comment.png">
+
+The app keeps track of how many accounts have "starred" a certain post. To "star" a post, simply click the star button! Once it turns yellow, you know you have successfully starred the post. 
 
 # Developer Guide
 
