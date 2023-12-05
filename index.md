@@ -100,7 +100,7 @@ After you follow someone, their posts will populate in your feed.
 
 ## Commenting 
 
-<img width="600px" class="text-center p-4" align="center" src="/Images/M3/photo-ineract-submitted-comment.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/photo-interact-submitted-comment.png">
 
 To comment on a post, click on any photo. You can enter in your comment and will receive a success notification (shown above) upon entry. You have the ability to delete any comment you create. Owners of a post may delete any comment on their post, and admin has the ability to remove any comment regardless of the post it is on.
 
@@ -178,24 +178,26 @@ You will see browser windows appear and disappear as the tests run.  If the test
 ```
 $ meteor npm run testcafe
 
-> rainbows-gallery@ testcafe-ci /Users/sienner/github/rainbows-gallery/rainbow-gallery/app
+> meteor-application-template-react@ testcafe /Users/sienner/github/rainbows-gallery/rainbow-gallery/app
 > testcafe chrome tests/*.testcafe.js
 
  Running tests in:
- - Chrome 86.0.4240.111 / macOS 10.15.7
+ - Chrome 119.0.0.0 / Ventura 13
 
- rainbow-gallery localhost test with default db
+ meteor-application-template-react localhost test with default db
  ✓ Test that landing page shows up
+ ✓ Test that landing page Renders an image for signed in and not
+ ✓ Test that landing page and the about page
+ ✓ Test that landing page and search profile without signing in
  ✓ Test that signin and signout work
- ✓ Test that signup page, then logout works
- ✓ Test that profile page displays
- ✓ Test that feed page displays
- ✓ Test that projects page displays
- ✓ Test that addPost page works
- ✓ Test that search page works
+ ✓ Test that signin landing and photoInteract and signout work
+ ✓ Test that signin landing and search and profile and signout work
+ ✓ Follow & Unfollow test
+ ✓ PhotoInteract Comment Page test and star and then delete post
+ ✓ upload Image
+ ✓ signup
 
-
- 8 passed (40s)
+ 11 passed (1m 29s)
 
  $
 ```
@@ -213,21 +215,22 @@ $ meteor npm run testcafe-ci
 > testcafe chrome:headless tests/*.testcafe.js -q --app "meteor npm run start"
 
  Running tests in:
- - Chrome 86.0.4240.111 / macOS 10.15.7
+ - Chrome 119.0.0.0 / Ventura 13
 
- rainbow-gallery localhost test with default db
+ meteor-application-template-react localhost test with default db
  ✓ Test that landing page shows up
+ ✓ Test that landing page Renders an image for signed in and not
+ ✓ Test that landing page and the about page
+ ✓ Test that landing page and search profile without signing in
  ✓ Test that signin and signout work
- ✓ Test that signup page, then logout works
- ✓ Test that profile page displays
- ✓ Test that feed page displays
- ✓ Test that projects page displays
- ✓ Test that addPost page works
- ✓ Test that search page works
+ ✓ Test that signin landing and photoInteract and signout work
+ ✓ Test that signin landing and search and profile and signout work
+ ✓ Follow & Unfollow test
+ ✓ PhotoInteract Comment Page test and star and then delete post
+ ✓ upload Image
+ ✓ signup
 
-
- 8 passed (56s)
-
+ 11 passed (1m 29s)
 $
 ```
 
@@ -256,7 +259,9 @@ The development process for Rainbow Gallery conformed to [Issue Driven Project M
 
 # User Reviews
 
-user reviews
+All users tested had positive reviews of the app and its design. One user found the resolution of the landing image to be too poor, however this feedback was not implemented, as the poor resolution assists in displaying the text overlay. All users stated that creating an account and navigating the app was intuitive and easy. Most users really liked the about page and found it informative and helpful, however one user wanted to see more colors or pictures. Due to the presence of the site page (that you see now!) and the distractions that would likely be caused by including many different colors, this feedback was also ignored. All users were able to successfully add a post, however a few complained about how long it took for the photo to go through. We find this feedback valid, however as an unfunded project, did not have the budget to improve response time from the service vendor. 
+
+Overall, users really enjoyed this app. There were some design inputs that have already been implemented in the discover, feed, and landing pages. In general, users found this app to be well designed, intuitive, and easy to use. The main issue from user feedback was the response time from the photo service vendor. Despite the lack of funding to fix this issue, the long wait time was addressed by disabling the 'submit' and enter keys after the first occurence when adding a post. Although the wait is still longer than ideal, now it is obvious that the program is "working" after submission. 
 
 # Deployment
 [Link](http://143.198.63.208/)
@@ -278,10 +283,5 @@ user reviews
 # Link to our Organization
 [Link](https://github.com/rainbows-gallery)
 
-# Future Improvements 
-* Ability to edit profile photo
-* Discovery page to find new accounts
-* Abilitly to delete your posts
-* Admin ability to delete all posts
-* Star functionality
+# Future Improvements
 
