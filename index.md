@@ -71,13 +71,19 @@ To add a post, click on the top box to look for a file, or drag a file into the 
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M3/feed-empty.png">
 
-Originally, if you are not following anyone, this is what your feed will look like. In order to start following accounts, search for other accounts in the search bar. 
+Originally, if you are not following anyone, this is what your feed will look like. In order to start following accounts, search for other accounts in the search bar or checkout the Discover tab.
 
 ## Search 
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M3/search-results.png">
 
 To search for accounts, simply enter any string into the Navbar then click enter. A page with all profiles with a match to the string you entered will appear. Click on the account shown to be taken to that user's profile page. 
+
+## Discover
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/Discover.png">
+
+This is the discover page. Every account that has atleast one post will have their first post displayed in the Discover tab. If you like an image, simply click on it to be taken to the poster's account!
 
 ## Someone Else's Profile 
 
@@ -106,7 +112,7 @@ The app keeps track of how many accounts have "starred" a certain post. To "star
 
 # Developer Guide
 
-This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+This section provides information of interest to Meteor developers wishing to use this code to run the app locally or build upon our work. 
 
 ## Installation
 
@@ -114,7 +120,7 @@ First, [install Meteor](https://www.meteor.com/install).
 
 Second, visit the [Rainbow Gallery Application Page](https://github.com/rainbows-gallery/gallery-app), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the rainbow-gallery/app directory and install libraries with:
 
 ```
 $ meteor npm install
@@ -159,7 +165,7 @@ Rainbow Gallery uses [TestCafe](https://devexpress.github.io/testcafe/) to provi
 
 In the [rainbows-gallery tests/ directory](https://github.com/rainbows-gallery/gallery-app/tree/main/app/tests) contains the TestCafe test definitions. The remaining files in the directory contain "page object models" for the various pages in the system (i.e. Home, Landing, etc.) as well as one component (navbar). This organization makes the test code shorter, easier to understand, and easier to debug.
 
-To run the end-to-end tests in development mode, you must first start up a BowFolios instance by invoking `meteor npm run start` in one console window.
+To run the end-to-end tests in development mode, you must first start up a Rainbow Gallery instance by invoking `meteor npm run start` in one console window.
 
 Then, in another console window, start up the end-to-end tests with:
 
@@ -196,7 +202,7 @@ $ meteor npm run testcafe
 
 You can also run the testcafe tests in "continuous integration mode".  This mode is appropriate when you want to run the tests using a continuous integration service like Jenkins, Semaphore, CircleCI, etc.  In this case, it is problematic to already have the server running in a separate console, and you cannot have the browser window appear and disappear.
 
-To run the testcafe tests in continuous integration mode, first ensure that BowFolios is not running in any console.
+To run the testcafe tests in continuous integration mode, first ensure that Rainbow Gallery is not running in any console.
 
 Then, invoke `meteor npm run testcafe-ci`.  You will not see any windows appear.  When the tests finish, the console should look like this:
 
