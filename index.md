@@ -310,5 +310,6 @@ If you would like to fill out our feedback form, click [here](https://docs.googl
 
 # Link to our Materials
 View [our organization](https://github.com/rainbows-gallery) on GitHub 
+
 View [our app repository](https://github.com/rainbows-gallery/gallery-app) on GitHub
 
