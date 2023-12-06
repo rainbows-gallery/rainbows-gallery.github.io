@@ -16,7 +16,7 @@
 * [Deployment](#deployment)
 * [Project Management Links](#project-management-links)
 * [Team Profiles](#team-profiles)
-* [Materials Link](#link-to-our-materials)
+* [Materials Links](#links-to-our-materials)
 
 # User Guide
 
@@ -308,7 +308,7 @@ If you would like to fill out our feedback form, click [here](https://docs.googl
 * [Kobe Uyeda](https://github.com/KobeUyeda)
 * [Eric Zhou](https://github.com/eric-z4)
 
-# Link to our Materials
+# Links to our Materials
 View [our organization](https://github.com/rainbows-gallery) on GitHub 
 
 View [our app repository](https://github.com/rainbows-gallery/gallery-app) on GitHub
