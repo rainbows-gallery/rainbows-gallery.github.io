@@ -6,6 +6,9 @@
 
 **The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts. Users will also be able to follow various users, search for users, or discover any user who has posted artwork on the platform. 
 
+View [our organization](https://github.com/rainbows-gallery) on GitHub 
+View [our app repository](https://github.com/rainbows-gallery/gallery-app) on GitHub
+
 # Table of contents
 
 * [Overview](#overview)
@@ -125,7 +128,7 @@ The app keeps track of how many accounts have "starred" a certain post. To "star
 
 This section provides information of interest to Meteor developers wishing to use this code to run the app locally or build upon our work. 
 
-## Installation
+## Installing and Running the Rainbow Gallery App
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -144,6 +147,18 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+## Modifying our work 
+
+Once you have cd'd into the directory where you cloned our app locally, (.../gallery-app/app), you can open the project with your IDE of choice. We recommend [IntelliJ](https://www.jetbrains.com/idea/). If you would like to see your changes as you are making them, be sure that you are running the app while you code. Note that some database modifications may require you to stop running the app, run the command 
+
+``` meteor reset ``` 
+
+and then run 
+
+``` meteor npm run start ``` 
+
+again in order for the changes to show up properly.  
 
 ## Quality Assurance
 
