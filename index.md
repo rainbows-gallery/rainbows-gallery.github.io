@@ -72,6 +72,12 @@ Our app lets you see who your followers are and who you are following, by simply
 
 To add a post, click on the top box to look for a file, or drag a file into the box. Fill in the description beneath the photo, then click submit. In a few seconds, you will receive an indicator that the post was successfully submitted. 
 
+## Edit Post
+
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/edit-description.png">
+
+To edit a post, you can click on any of your photos and click on 'edit'. Once you click edit, you will be able to change the post description. You are not able to change the photo, so if you would like to change the photo and description, simply delete your old post (using the trash icon) and create a new one!
+
 ## Feed
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M3/feed-empty.png">
