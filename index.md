@@ -4,7 +4,7 @@
 
 **The Problem**: UH students who paint, draw, sculpt, photograph, and so on do not have a public place to showcase their art to other individuals. Although there is the Manoa Creative Production Discord server, it is not a convenient place for people to look at a specific person’s art, nor a place for sculptures, photographs, ceramics, etc.
 
-**The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts they like for easy reference.
+**The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts. Users will also be able to follow various users, search for users, or discover any user who has posted artwork on the platform. 
 
 # Table of contents
 
@@ -197,12 +197,13 @@ $ meteor npm run testcafe
  ✓ Test that signin and signout work
  ✓ Test that signin landing and photoInteract and signout work
  ✓ Test that signin landing and search and profile and signout work
+ ✓ Test editProfile
  ✓ Follow & Unfollow test
  ✓ PhotoInteract Comment Page test and star and then delete post
  ✓ upload Image
  ✓ signup
 
- 11 passed (1m 29s)
+ 12 passed (1m 36s)
 
  $
 ```
@@ -230,12 +231,13 @@ $ meteor npm run testcafe-ci
  ✓ Test that signin and signout work
  ✓ Test that signin landing and photoInteract and signout work
  ✓ Test that signin landing and search and profile and signout work
+ ✓ Test editProfile
  ✓ Follow & Unfollow test
  ✓ PhotoInteract Comment Page test and star and then delete post
  ✓ upload Image
  ✓ signup
 
- 11 passed (1m 29s)
+ 12 passed (1m 36s)
 $
 ```
 
