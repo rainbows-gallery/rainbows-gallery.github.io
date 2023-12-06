@@ -30,13 +30,13 @@ These images show the landing page of our application. Each of these photos can 
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Signup.png">
 
-This is the current rendering of the sign up page. When starting up, the site asks for entry of a username, email, and password. The "Already have an account?" link is functional and takes you directly to the sign in page. 
+This is the sign up page. When starting up, the site asks for entry of a username, email, and password. The "Already have an account?" link is functional and takes you directly to the sign in page. 
 
 ## Sign In 
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M2New/Login.png">
 
-This is the current sign in page. It requests a username or email from the user, as well as their password. 
+This is the sign in page. It requests a username or email from the user, as well as their password. 
 
 ## About 
 
