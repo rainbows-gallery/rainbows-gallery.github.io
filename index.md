@@ -58,6 +58,12 @@ To edit your profile, click the edit profile link. Add a photo and a bio and cli
 
 Once you have added posts to your profile, this is what it will look like!
 
+## Followers/Following 
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/following-overaly.png">
+<img width="600px" class="text-center p-4" align="center" src="/Images/M3/followers-overlay-someone-else.png">
+
+Our app lets you see who your followers are and who you are following, by simply clicking on the "followers" or "following" text on any profile page. You do not need to be friended with someone to see who they are following or who is following them, and you can click on any of the profiles you see on the overlay to be taken to that user's profile. 
+
 ## Add Post
 
 <img width="600px" class="text-center p-4" align="center" src="/Images/M3/add-post-empty.png">
