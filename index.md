@@ -6,9 +6,6 @@
 
 **The Solution**: The UH Student Art Gallery allows users to post images of their art for anyone to view. Users will be able to add comments under artworks and star posts. Users will also be able to follow various users, search for users, or discover any user who has posted artwork on the platform. 
 
-View [our organization](https://github.com/rainbows-gallery) on GitHub 
-View [our app repository](https://github.com/rainbows-gallery/gallery-app) on GitHub
-
 # Table of contents
 
 * [Overview](#overview)
@@ -19,6 +16,7 @@ View [our app repository](https://github.com/rainbows-gallery/gallery-app) on Gi
 * [Deployment](#deployment)
 * [Project Management Links](#project-management-links)
 * [Team Profiles](#team-profiles)
+* [Materials Link](#link-to-our-materials)
 
 # User Guide
 
@@ -310,6 +308,7 @@ If you would like to fill out our feedback form, click [here](https://docs.googl
 * [Kobe Uyeda](https://github.com/KobeUyeda)
 * [Eric Zhou](https://github.com/eric-z4)
 
-# Link to our Organization
-[Link](https://github.com/rainbows-gallery)
+# Link to our Materials
+View [our organization](https://github.com/rainbows-gallery) on GitHub 
+View [our app repository](https://github.com/rainbows-gallery/gallery-app) on GitHub
 
